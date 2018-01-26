@@ -1,0 +1,1 @@
+This is a project that I completed during Colt Steele's Web Developer course. It is a great representation of an app using HTML, CSS, and JavaScript.
